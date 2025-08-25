@@ -1,0 +1,14 @@
+{
+  "name": "AgentLockr",
+  "description": "AgentLockr is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://7774158e-5fbb-4271-a866-7f2fea0a2076.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "AgentLockr",
+      "description": "AgentLockr is a Base Mini App built with Zara.",
+      "url": "https://7774158e-5fbb-4271-a866-7f2fea0a2076.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
