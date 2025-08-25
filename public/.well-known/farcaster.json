@@ -10,7 +10,7 @@
     "subtitle": "Built with Zara",
     "description": "AgentLockr is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://7774158e5fbb4271a8667f2fea0a2076-cyi2-rn2mlhpwb-vistara.vercel.app",
+    "homeUrl": "https://7774158e5fbb4271a8667f2fea0a2076-blh6-hf46y798j-vistara.vercel.app",
     "splashImageUrl": "https://7774158e5fbb4271a8667f2fea0a2076-cyi2-rn2mlhpwb-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
     "heroImageUrl": "https://7774158e5fbb4271a8667f2fea0a2076-cyi2-rn2mlhpwb-vistara.vercel.app/image.png",
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://7774158e5fbb4271a8667f2fea0a2076-cyi2-rn2mlhpwb-vistara.vercel.app/api/webhook"
+    "webhookUrl": "https://7774158e5fbb4271a8667f2fea0a2076-blh6-hf46y798j-vistara.vercel.app/api/webhook"
   }
 }
